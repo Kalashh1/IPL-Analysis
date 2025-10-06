@@ -51,6 +51,8 @@ IPL-Analysis/
 ├── README.md
 └── requirements.txt
 ```
+## Dataset Link
+https://www.kaggle.com/datasets/vinayaks0n1/ipl-2025
 
 ## Contributing
 
